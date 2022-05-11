@@ -78,7 +78,7 @@ a:hover {
 
 /*   HEADER   */
 .header {
-	background:  url(../img/iPhone_6.png) no-repeat center bottom, url(../img/bg.jpg) no-repeat center top;
+	background:  url(../img/iPhone_6.png) no-repeat center bottom, url(../img/bg.jpg) no-repeat center top /cover;
 	padding-top: 44px;
 	padding-bottom: 510px;
 }
